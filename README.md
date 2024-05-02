@@ -16,3 +16,6 @@ Functions are reusable code blocks that you can call, or invoke, to run their co
 
 Argument:
 An argument is an object or an expression passed to a function — added between the opening and closing parentheses — when it is called.
+
+Indentation:
+Python relies on indentation to indicate blocks of code. A colon at the end of a line is a signal that a new indented block of code will follow. So, when no indented block is found after the final colon, the code execution stops and an IndentationError is thrown
