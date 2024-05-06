@@ -31,3 +31,12 @@ a dictionary is a collection of key-value pairs, similar to a word and its defin
 
 Operators
 Operators are instructions that perform operations on variables and values in Python. They are used to manipulate and perform actions on data. The most familiar type of operator is the arithmetic operator, which is used for mathematical calculations. 
+
+Comparison Operators
+Comparison operators, logical operators, identity operators, and membership operators are another set of operators in Python. Comparison operators evaluate two variables or values and produce a Boolean result, either true or false. Examples include the double equal sign for equality, less-than, less-than or equal to, greater than, and greater than or equal to.
+
+Logical Operators
+Logical operators, such as "and," "or," and "not," operate on Boolean values. The "and" operator returns true only if both operands are true, while the "or" operator returns true if at least one operand is true. The "not" operator negates the Boolean value it operates on.
+
+Membership Operators
+Membership operators, "in" and "not in," are used to check whether a value is present in a sequence or not. For instance, using "in" can check if a number or a string exists in a given list or string.
