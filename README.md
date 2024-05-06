@@ -19,3 +19,15 @@ An argument is an object or an expression passed to a function — added between
 
 Indentation:
 Python relies on indentation to indicate blocks of code. A colon at the end of a line is a signal that a new indented block of code will follow. So, when no indented block is found after the final colon, the code execution stops and an IndentationError is thrown
+
+Data Structure:
+In Python, data structures allow for the storage of a list of values in a single variable. The first data structure we learn about is a list, which can contain any data type, including a list within a list. The length of a list can be determined using the length function.
+
+Tuples:
+Tuples are similar to lists, except they cannot be modified once declared. They are useful when you need to store large amounts of data more efficiently in memory, like X Y coordinate pairs.
+
+Dictionary
+a dictionary is a collection of key-value pairs, similar to a word and its definition in a book. Dictionaries are declared using curly braces and accessed using keys.
+
+Operators
+Operators are instructions that perform operations on variables and values in Python. They are used to manipulate and perform actions on data. The most familiar type of operator is the arithmetic operator, which is used for mathematical calculations. 
